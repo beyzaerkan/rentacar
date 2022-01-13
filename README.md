@@ -28,4 +28,4 @@ olabilir.
 - Bir araba birden fazla kiralanabilir. Bir kiralamada yalnızca bir araba bulunur.
 
 ### Varlık Bağıntı Modeli
-![Varlık Bağıntı Modeli](https://github.com/beyzaerkan/rentacar/blob/master/Varl%C4%B1k%20Ba%C4%9F%C4%B1nt%C4%B1%20Diyagram%C4%B1.png)
+![Varlık Bağıntı Modeli](https://github.com/beyzaerkan/rentacar/blob/main/Varl%C4%B1k%20Ba%C4%9F%C4%B1nt%C4%B1%20Diyagram%C4%B1.png)
